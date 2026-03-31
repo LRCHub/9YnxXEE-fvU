@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "base_track": "Mayonaka no Door~stay with me",
+  "base_artist": "Miki Matsubara",
+  "createdAt": "2026-03-31T06:59:50.625990Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mayonaka no Door / Stay With Me",
+      "artist": "Miki Matsubara",
+      "has_synced": true,
+      "path": "select/01_Mayonaka_no_Door___Stay_With_Me_Miki_Matsubara.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mayonaka no Door STAY WITH ME",
+      "artist": "21",
+      "has_synced": false,
+      "path": "select/02_Mayonaka_no_Door_STAY_WITH_ME_21.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mayonaka no Door / Stay With Me",
+      "artist": "松原みき",
+      "has_synced": true,
+      "path": "select/03_Mayonaka_no_Door___Stay_With_Me_松原みき.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mayonaka no Door / Stay With Me",
+      "artist": "Miki Matsubara",
+      "has_synced": true,
+      "path": "select/04_Mayonaka_no_Door___Stay_With_Me_Miki_Matsubara.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mayonaka no Door / Stay With Me",
+      "artist": "Miki Matsubara",
+      "has_synced": true,
+      "path": "select/05_Mayonaka_no_Door___Stay_With_Me_Miki_Matsubara.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mayonaka no Door / Stay With Me",
+      "artist": "Miki Matsubara",
+      "has_synced": true,
+      "path": "select/06_Mayonaka_no_Door___Stay_With_Me_Miki_Matsubara.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mayonaka no Door / Stay With Me",
+      "artist": "Miki Matsubara",
+      "has_synced": true,
+      "path": "select/07_Mayonaka_no_Door___Stay_With_Me_Miki_Matsubara.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mayonaka no Door / Stay With Me",
+      "artist": "松原みき",
+      "has_synced": true,
+      "path": "select/08_Mayonaka_no_Door___Stay_With_Me_松原みき.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mayonaka no Door / Stay With Me",
+      "artist": "Tokimeki Records",
+      "has_synced": true,
+      "path": "select/09_Mayonaka_no_Door___Stay_With_Me_Tokimeki_Records.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mayonaka no Door / Stay With Me",
+      "artist": "Miki Matsubara",
+      "has_synced": true,
+      "path": "select/10_Mayonaka_no_Door___Stay_With_Me_Miki_Matsubara.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mayonaka no Door 〜 Stay with Me",
+      "artist": "Miki Matsubara",
+      "has_synced": true,
+      "path": "select/11_Mayonaka_no_Door_〜_Stay_with_Me_Miki_Matsubara.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mayonaka no Door / Stay With Me (Karaoke)",
+      "artist": "松原みき",
+      "has_synced": true,
+      "path": "select/12_Mayonaka_no_Door___Stay_With_Me_(Karaoke)_松原みき.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mayonaka no Door / Stay With Me",
+      "artist": "Miki Matsubara",
+      "has_synced": false,
+      "path": "select/pl_01_Mayonaka_no_Door___Stay_With_Me_Miki_Matsubara.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Mayonaka no Door~stay with me",
+      "artist": "Miki Matsubara",
+      "has_synced": true,
+      "path": "select/localdb_01_Mayonaka_no_Door~stay_with_me_Miki_Matsubara.lrc",
+      "repo_name": "nRmlLrI0OVk"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "Mayonaka no Door~stay with me",
+      "artist": "Miki Matsubara",
+      "has_synced": true,
+      "path": "select/localdb_02_Mayonaka_no_Door~stay_with_me_Miki_Matsubara.lrc",
+      "repo_name": "lags8E4hvow"
+    }
+  ]
+}
